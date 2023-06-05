@@ -1,0 +1,11 @@
+F:\nuznoe\work\vs\ContactsManagerTry3\ContactsManagerTry3\bin\Debug\ContactsManagerTry3.exe.config
+F:\nuznoe\work\vs\ContactsManagerTry3\ContactsManagerTry3\bin\Debug\ContactsManagerTry3.exe
+F:\nuznoe\work\vs\ContactsManagerTry3\ContactsManagerTry3\bin\Debug\ContactsManagerTry3.pdb
+F:\nuznoe\work\vs\ContactsManagerTry3\ContactsManagerTry3\obj\Debug\ContactsManagerTry3.csproj.AssemblyReference.cache
+F:\nuznoe\work\vs\ContactsManagerTry3\ContactsManagerTry3\obj\Debug\ContactsManagerTry3.csproj.SuggestedBindingRedirects.cache
+F:\nuznoe\work\vs\ContactsManagerTry3\ContactsManagerTry3\obj\Debug\ContactsManagerTry3.Form1.resources
+F:\nuznoe\work\vs\ContactsManagerTry3\ContactsManagerTry3\obj\Debug\ContactsManagerTry3.Properties.Resources.resources
+F:\nuznoe\work\vs\ContactsManagerTry3\ContactsManagerTry3\obj\Debug\ContactsManagerTry3.csproj.GenerateResource.cache
+F:\nuznoe\work\vs\ContactsManagerTry3\ContactsManagerTry3\obj\Debug\ContactsManagerTry3.csproj.CoreCompileInputs.cache
+F:\nuznoe\work\vs\ContactsManagerTry3\ContactsManagerTry3\obj\Debug\ContactsManagerTry3.exe
+F:\nuznoe\work\vs\ContactsManagerTry3\ContactsManagerTry3\obj\Debug\ContactsManagerTry3.pdb
